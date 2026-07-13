@@ -31,9 +31,9 @@ The panel displays:
 
 ## Screenshot
 
-![EA Risk Manager Panel](Images/Capture1.png)
-![EA Risk Manager Panel](Images/Capture2.png)
-![EA Risk Manager Panel](Images/Capture3.png)
+![EA Risk Manager Panel](images/Capture1.png)
+![EA Risk Manager Panel](images/Capture2.png)
+![EA Risk Manager Panel](images/Capture3.png)
 
 ## Installation
 
