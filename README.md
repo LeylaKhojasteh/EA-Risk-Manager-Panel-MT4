@@ -1,4 +1,4 @@
-# EA-Risk-Manager-Panel-MT4
+# EA Risk Manager Panel MT4
 
 This EA provides a graphical interface for calculating the appropriate lot size based on account balance, stop loss distance, and risk percentage before placing a trade.
 
@@ -33,7 +33,6 @@ The panel displays:
 
 ![EA Risk Manager Panel](images/Capture1.PNG)
 ![EA Risk Manager Panel](images/Capture2.PNG)
-![EA Risk Manager Panel](images/Capture3.PNG)
 
 ## Installation
 
